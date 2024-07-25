@@ -17,7 +17,7 @@ One of the most widely used public key cryptosystem is RSA. RSA uses two keys pu
 When someone wants to send you message they encrypt it with public key and can be sure that only person with private key will be able to decrypt it.
 Generating public and private key base on two large prime numbers along with an auxiliary value.
 Why is it safe? Because we need around 19.8 quadrillion years using Google's computational power to break RSA-2048 with brute force[2].
-And why it won't be safe anymore with quantum computer? Because with Shor's algorithm it will take 10-100 seconds (depending on number of qubits) to crack RSA-2048!
+And why it won't be safe anymore with quantum computer? Because with Shor's algorithm it will take 10-100 seconds [3] (depending on number of qubits) to crack RSA-2048!
 
 4. Is AES (symmetric cryptography) also vulnerable?<br>
 Let's look at AES algorithm as it's one of the most popular symmetric key cryptography algorithm. By symmetric cryptography we understand 
