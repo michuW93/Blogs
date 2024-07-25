@@ -28,7 +28,7 @@ Why AES will still be secure even in quantum computers' era? Because it will tak
 To be honest even AES 128 would be quantum resistance.
 
 So can we throw whole current cryptography to bin if we would have quantum computer? Definitely no!
-Some algorithms like RSA will be useless but another as AES are quantum resistance.
+Some algorithms like RSA, DSA will be useless but another especially symmetric cryptography are quantum resistance even today.
 
 
 [1]https://en.wikipedia.org/wiki/RSA_(cryptosystem)
