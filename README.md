@@ -2,7 +2,7 @@
 
 Can we throw whole current cryptography to bin if we would have quantum computer?
 
-1. What is quantum computer<br>
+1. What is quantum computer?<br>
 Let's start with explanation what is quantum computer and what is the difference between quantum computer and classic one.
 Our computers use bits. Bit can have 2 values: 0 and 1. Quantum computer is using qubit (quantum bit) which can have all spectrum of values, not only 0 or 1 which
 allow it to transfer much more data than bit. Quantum computer is then much faster than normal computer.
