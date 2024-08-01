@@ -34,7 +34,7 @@ for 2 from N we have 4 from E<br>
 ...<br>
 for n from N we have 2N from E<br>
 
-we just showed that every element from N has corresponding element in E! All elements have a pair so size of N and E must be the same! <br>
+we just showed that every element from N has corresponding element in E! All elements have a pair so size of N and E must have the same size! <br>
 
 Conclusion: **We have as many natural numbers as even numbers!**
 
