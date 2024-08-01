@@ -10,7 +10,7 @@ set B = {5,6,8} <br>
 
 these are the same size. Both set A and set B have 3 elements. <br><br>
 
-That was easy because we could count number of elements. It's worse when we would like to count number of elements in infinite set.
+That was easy because we could count number of elements. It's worse when we would like to count number of elements in infinite set.<br>
 You can think of the biggest number you can imagine and you can always add 1 to it. So it's impossible to count them in a way we did in first example.<br>
 
 There is another option, we can try to pair elements from both sets. If we go back to previous example we can see that all elements from set A have a pair in set B.
