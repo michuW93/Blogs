@@ -21,8 +21,8 @@ Moreover, we created **bijection** between two sets. Bijection seems like someth
 If you can find for every element from A corresponding element from B then it's bijection, if you can't it's not.<br><br>
 
 
-Let's switch to more interesting problem if we already have idea how to deal with it.<br>
-Again we have two sets:<br>
+Let's switch to more interesting problem if we already have idea how to deal with it - are there as many natural numbers as even numbers?<br>
+Again we have two sets (N natural, E even):<br>
 N = {0, 1, 2, 3, 4, ...}<br>
 E = {0, 2, 4, 6, 8, ...}<br>
 
