@@ -18,7 +18,7 @@ There is another option, we can try to pair elements from both sets. If we go ba
 Pair for 1 from A will be 5 from B, pair for 2 from A will be 6 from B and pair for 3 from A will be 8 from B.<br>
 Okay, we again showed that sets size are the same even though we didn't count them. <br>
 Moreover, we created **bijection** between two sets. Bijection seems like something really tricky and hard in math, but it's basically function one to one.<br>
-If you can find for every element from A corresponding element from B then it's bijection, if you can't it's not.<br><br>
+If you can find for every element from A corresponding element from B then it's bijection, if you can't - it's not.<br><br>
 
 
 Let's switch to more interesting problem if we already have idea how to deal with it - are there as many natural numbers as even numbers?<br>
