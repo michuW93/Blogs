@@ -26,7 +26,7 @@ Again we have two sets (N natural, E even):<br>
 N = {0, 1, 2, 3, 4, ...}<br>
 E = {0, 2, 4, 6, 8, ...}<br>
 
-If we were used our intuition we would say that set N is bigger because we have the same numbers plus something else e.g 3.<br>
+If we were to rely on our intuition, we might assume that set N is larger because it contains the same numbers as even numbers set, plus an additional element (e.g. 3 or 5).<br>
 Yes but still there is no option to count it so let's try to use our second idea - let's pair them or find bijection as it's sound cooler.<br>
 For 0 from N we have 0 from E<br>
 for 1 from N we have 2 from E<br>
