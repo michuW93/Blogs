@@ -40,6 +40,6 @@ Conclusion: **We have as many natural numbers as even numbers!**
 
 
 
-Additional note - if you are interested how to check if number is even in best way see my comment: [https://www.youtube.com/watch?v=OCieTLLrazI&ab_channel=TVPSport](https://stackoverflow.com/a/51998794/4952262)<br>
+Additional note - if you are interested how to check if number is even in best way see my comment: https://stackoverflow.com/a/51998794/4952262<br>
 https://math.stackexchange.com/questions/341605/as-many-even-numbers-as-natural-numbers<br>
 https://en.wikipedia.org/wiki/Bijection#:~:text=A%20bijection%2C%20bijective%20function%2C%20or,second%20set%20(the%20codomain).<br>
