@@ -9,11 +9,16 @@ Of course, I am not expecting answer 2147483647 but I would like to hear about 2
 Okay, but is it even important? Well, for age you don't need to know max value of Integer but what if you would like to store value of all person shares?
 Let's say that he has 1000 shares of Lindt which is now around 10 000 CHF. Will it be enough? What if we would like to change currency to polish zloty or turkish lira?
 That's why it's important. In my opinion all Java developers should know that to check max value should use `Integer.MAX_VALUE`, that it's slightly over 2 billions
-and that Integer has 32 bits. Actually max value of Integer is 2^32-1? Why? Because there are 2^32 possibilities of all values but first bit is sign (- or +)[1].
+and that <b>Integer has 32 bits</b>. Actually max value of Integer is 2^32-1? Why? Because there are 2^32 possibilities of all values but first bit is sign (- or +)[1].
 If you know that you need something bigger than Integer then go for Long or even BigInteger.
 
-
 ##Float vs Double
+The next question about types is differences between Double and Float. Usually everyone knows that Double has wider range but again in case of 
+max values and bits it's the same as in previous chapter. <b>Double has 64 bits, Float has 32 bits</b>.
 
+##Problem with floating point
+I also like to ask about problem with floating point. What is the problem?<br>
+From System.out.println(2.00-1.10) I would expect result 0.9, however for some reason I receive 0.899999. Why is that and how to fix it?
+This one is a bit more complicated. 
 
 [1]https://stackoverflow.com/questions/5771520/why-is-the-maximum-value-of-an-unsigned-n-bit-integer-2%e2%81%bf-1-and-not-2%e2%81%bf
