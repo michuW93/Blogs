@@ -20,8 +20,8 @@ max values and bits it's the same as in previous chapter. <b>Double has 64 bits,
 
 ## Problem with floating point
 I also like to ask about problem with floating point. What is the problem?<br>
-From System.out.println(2.00-1.10) I would expect result 0.9, however for some reason I receive 0.899999. Why is that and how to fix it?
-This one is a bit more complicated. 
+From System.out.println(2.00-1.10) I would expect result 0.9, however for some reason I receive 0.899999. Why is that and how to fix it?<br>
+This one is a bit more complicated.<br>
 First of all - if we write 2.00 or 1.10 they are doubles by default. Computer stores floating point numbers in binary format but some decimal numbers cannot be precisely represented 
 in binary due to the limitations of finite bits. e.g 0.1 in decimal is 0.000110011001100110011... in binary. The same happens for 0.9 from our example and that's why we receive 0.8999
 instead of 0.9.<br>
